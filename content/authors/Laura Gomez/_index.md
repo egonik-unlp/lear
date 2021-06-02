@@ -16,7 +16,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Edito Latas
+- HOLAAAAAAA
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
